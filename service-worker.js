@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/glabbr-react-app/precache-manifest.794acc23a3115a16ccb1b7fd94547082.js"
+  "/glabbr-react-app/precache-manifest.29de878679cf727a33f861504e5c727f.js"
 );
 
 self.addEventListener('message', (event) => {
