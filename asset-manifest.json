@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/glabbr-react-app/static/css/main.a246d239.chunk.css",
-    "main.js": "/glabbr-react-app/static/js/main.ccc2899d.chunk.js",
-    "main.js.map": "/glabbr-react-app/static/js/main.ccc2899d.chunk.js.map",
+    "main.css": "/glabbr-react-app/static/css/main.cf3a6b6a.chunk.css",
+    "main.js": "/glabbr-react-app/static/js/main.39479259.chunk.js",
+    "main.js.map": "/glabbr-react-app/static/js/main.39479259.chunk.js.map",
     "runtime-main.js": "/glabbr-react-app/static/js/runtime-main.7e0b0e9a.js",
     "runtime-main.js.map": "/glabbr-react-app/static/js/runtime-main.7e0b0e9a.js.map",
     "static/js/2.fea8cba0.chunk.js": "/glabbr-react-app/static/js/2.fea8cba0.chunk.js",
     "static/js/2.fea8cba0.chunk.js.map": "/glabbr-react-app/static/js/2.fea8cba0.chunk.js.map",
     "index.html": "/glabbr-react-app/index.html",
-    "precache-manifest.29de878679cf727a33f861504e5c727f.js": "/glabbr-react-app/precache-manifest.29de878679cf727a33f861504e5c727f.js",
+    "precache-manifest.73d04bf581864ab13e73664e5639337a.js": "/glabbr-react-app/precache-manifest.73d04bf581864ab13e73664e5639337a.js",
     "service-worker.js": "/glabbr-react-app/service-worker.js",
-    "static/css/main.a246d239.chunk.css.map": "/glabbr-react-app/static/css/main.a246d239.chunk.css.map",
+    "static/css/main.cf3a6b6a.chunk.css.map": "/glabbr-react-app/static/css/main.cf3a6b6a.chunk.css.map",
     "static/js/2.fea8cba0.chunk.js.LICENSE.txt": "/glabbr-react-app/static/js/2.fea8cba0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7e0b0e9a.js",
     "static/js/2.fea8cba0.chunk.js",
-    "static/css/main.a246d239.chunk.css",
-    "static/js/main.ccc2899d.chunk.js"
+    "static/css/main.cf3a6b6a.chunk.css",
+    "static/js/main.39479259.chunk.js"
   ]
 }
