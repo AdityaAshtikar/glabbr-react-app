@@ -17,7 +17,8 @@ export class PlansView extends Component {
     }
 
     async componentDidMount () {
-        let url = 'http://www.mocky.io/v2/5e3156863200007200888450'
+                // https://www.mocky.io/v2/5e3156863200007200888450
+        let url = 'https://www.mocky.io/v2/5e3156863200007200888450'
         await axios.get(url)
                 .then(res => this.setState({plans: res.data.plans}))
                 .catch(error => console.log("Error: ", error))
